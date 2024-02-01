@@ -5,8 +5,8 @@
 * ❤️ I'm passionate about data science, scrapers, clean architecture, and NextJS
 
 #### Notable Projects
-- 🔗 [Mylinx](https://mylinx.cc)
-- ⛩️  [AniTrek](https://anitrek.co/)
-- &nbsp;▶ &nbsp;[ReactAllPlayer](https://reactallplayer.asadbek.dev/)
-- 🎨  [GWizard](https://gwizard.asadbek.dev)
+- 🔗&nbsp;&nbsp;&nbsp;&nbsp;[Mylinx](https://mylinx.cc)
+- ⛩️&nbsp;&nbsp;[AniTrek](https://anitrek.co/)
+- ▶&nbsp;&nbsp;&nbsp;[ReactAllPlayer](https://reactallplayer.asadbek.dev/)
+- 🎨&nbsp;&nbsp;&nbsp;[GWizard](https://gwizard.asadbek.dev)
 <br>
