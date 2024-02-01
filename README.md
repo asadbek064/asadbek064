@@ -1,8 +1,8 @@
 ## Hi! I'm Asad
 * 🇺🇸 I'm a software engineer and designer from New York
-* 📁 I worked on Pieshare's backend @ Pieshares in Ohio
-* 👩‍🏫 Right now I'm tinkering on... building the better LinkTree with [Mylinx](https://mylinx.cc/).
-* ❤️ I'm passionate about data science, scrappers, clean architecture, bash and NextJS 
+* 📁  I worked on Pieshare's backend at Pieshares in Ohio.
+* 👩‍🏫 Right now I'm tinkering on... building a better LinkTree with [Mylinx](https://mylinx.cc/).
+* ❤️ I'm passionate about data science, scrapers, clean architecture, and NextJS
 
 #### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc)
