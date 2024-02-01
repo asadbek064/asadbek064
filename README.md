@@ -10,4 +10,3 @@
 - &nbsp;▶ &nbsp;[ReactAllPlayer](https://reactallplayer.asadbek.dev/)
 - 🎨  [GWizard](https://gwizard.asadbek.dev)
 <br>
-<img src="https://s6.gifyu.com/images/S8iPW.gif" width="200" />
