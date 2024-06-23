@@ -6,7 +6,6 @@
 
 #### Notable Projects
 - 🔗&nbsp;&nbsp;&nbsp;&nbsp;[Mylinx](https://mylinx.cc)
-- ⛩️&nbsp;&nbsp;[AniTrek](https://anitrek.co/)
+- ⛩️&nbsp;&nbsp;[AniTrek](https://anitrek.com/)
 - ▶&nbsp;&nbsp;&nbsp;[ReactAllPlayer](https://reactallplayer.asadbek.dev/)
-- 🎨&nbsp;&nbsp;&nbsp;[GWizard](https://gwizard.asadbek.dev)
 <br>
