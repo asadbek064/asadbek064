@@ -7,5 +7,5 @@
 #### Notable Projects
 - 🔗&nbsp;&nbsp;&nbsp;&nbsp;[Mylinx](https://mylinx.cc)
 - ⛩️&nbsp;&nbsp;[AniTrek](https://anitrek.com/)
-- ▶&nbsp;&nbsp;&nbsp;[ReactAllPlayer](https://reactallplayer.asadbek.dev/)
+- ▶&nbsp;&nbsp;&nbsp;[ReactAllPlayer](https://reactallplayer.asadk.dev/)
 <br>
