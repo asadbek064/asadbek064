@@ -9,7 +9,7 @@ I'm a software engineer and designer based in New York, passionate about buildin
 ### Skills & Expertise
 
 **Languages:**  
-  * JavaScript,TypeScript (Node) (5+ years)
+  * JavaScript, TypeScript (Node) (5+ years)
   * Java (2+ years)
   * Python (4+ years)
   * C++ (2+ years)
