@@ -14,7 +14,7 @@ I'm a software engineer and designer based in New York, passionate about buildin
   * Python (4+ years)
   * C++ (2+ years)
 
-** What I've worked with **
+**What I've worked with**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
