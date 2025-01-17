@@ -3,6 +3,7 @@ I'm a software engineer and designer based in New York, passionate about buildin
 
 ### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc) - The free Linktree and Bitly alternative for customizable bio pages and URL shorteners.
+- 📄 [BinCode](https://jsbin.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://anitrek.com/) - Anime content discovery and management.
 - ▶️ [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
 
