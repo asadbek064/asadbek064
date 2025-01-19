@@ -2,7 +2,7 @@
 I'm a software engineer and designer based in New York, passionate about building innovative solutions and exploring new technologies. Currently, I'm immersed in developing a better LinkTree alternative with [Mylinx](https://mylinx.cc/). Beyond that, I have a deep interest in data science, crafting clean architecture, and working with Next.js.
 
 ### Notable Projects
-- 🔗 [Mylinx](https://mylinx.cc) - The free Linktree and Bitly alternative for customizable bio pages and URL shorteners.
+- 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
 - 📄 [BinCode](https://jsbin.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://anitrek.com/) - Anime content discovery and management.
 - ▶️ [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
