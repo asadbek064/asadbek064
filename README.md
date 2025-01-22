@@ -3,7 +3,7 @@ I'm a software engineer and designer based in New York, passionate about buildin
 
 ### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
-- 📄 [BinCode](https://jsbin.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
+- 📄 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://anitrek.com/) - Anime content discovery and management.
 - ▶️ [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
 
