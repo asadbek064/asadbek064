@@ -2,10 +2,11 @@
 🚀 Software Engineer at [SheetJS](http://sheetjs.com/), working on R&D, documentation, integrations, and customer support. I also maintain [Mylinx](http://mylinx.cc/), a platform combining Linktree and Bitly features for bio pages, URL shortening, and QR codes. I'm passionate about data toolkits, clean architecture, and Next.js.
 
 ### Notable Projects
+- 📦 [Tabeller](https://git.sheetjs.com/asadbek064/react-native-tabeller) - Table component for React Native.
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
+- 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://anitrek.com/) - Content discovery and management platform.
-- 📄 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
-- ▶️ [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
+- 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
 
 ### Skills & Expertise
 
