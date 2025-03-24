@@ -11,8 +11,8 @@
 ### Skills & Expertise
 
 **Languages:**  
-  * JavaScript, TypeScript (Node) (6+ years)
-  * Java (2+ years)
+  * JavaScript, TypeScript (Node) (7+ years)
+  * Java (3+ years)
   * Python (4+ years)
   * C++ (2+ years)
 
