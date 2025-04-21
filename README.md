@@ -5,7 +5,7 @@
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
 - 📦 [Tabeller](https://git.sheetjs.com/asadbek064/react-native-tabeller) - Table component for React Native.
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
-- ⛩️ [AniTrek](https://anitrek-client.vercel.app/) - Content discovery and management platform.
+- ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform.
 - 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
 
 ### Skills & Expertise
