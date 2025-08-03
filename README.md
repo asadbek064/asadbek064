@@ -1,7 +1,8 @@
 ## 👋 Hey there! I'm Asad
 🚀 Software Engineer at [SheetJS](http://sheetjs.com/), working on R&D, documentation, integrations, and customer support. Most of my work there lives in our internal [Gitea repo](https://git.sheetjs.com/sheetjs), rather than GitHub. I also maintain [Mylinx](http://mylinx.cc/), a platform combining Linktree and Bitly features for bio pages, URL shortening, and QR codes.
 
-I'm passionate about data toolkits, binary formats, low-level JavaScript, and clean architecture.
+Passionate about data toolkits, binary formats, low-level JS, and clean architecture.
+10+ years coding. Interested in accessibility, ML, and workflow optimization.
 
 ### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
