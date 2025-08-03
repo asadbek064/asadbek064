@@ -1,5 +1,7 @@
 ## 👋 Hey there! I'm Asad
-🚀 Software Engineer at [SheetJS](http://sheetjs.com/), working on R&D, documentation, integrations, and customer support. I also maintain [Mylinx](http://mylinx.cc/), a platform combining Linktree and Bitly features for bio pages, URL shortening, and QR codes. I'm passionate about data toolkits, clean architecture, and Next.js.
+🚀 Software Engineer at [SheetJS](http://sheetjs.com/), working on R&D, documentation, integrations, and customer support. Most of my work there lives in our internal [Gitea repo](https://git.sheetjs.com/sheetjs), rather than GitHub. I also maintain [Mylinx](http://mylinx.cc/), a platform combining Linktree and Bitly features for bio pages, URL shortening, and QR codes.
+
+I'm passionate about data toolkits, binary formats, low-level JavaScript, and clean architecture.
 
 ### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
@@ -7,6 +9,7 @@
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform.
 - 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
+- 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) - View XLSX, CSV, ODS & more in VSCode.
 
 ### Skills & Expertise
 
