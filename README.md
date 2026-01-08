@@ -18,7 +18,7 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
   * JavaScript, TypeScript (Node) (7+ years)
   * Java (3+ years)
   * Python (4+ years)
-  * C++ (2+ years)
+  * C++17 (2+ years)
 
 **What I've worked with**
 
