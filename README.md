@@ -13,8 +13,10 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
 [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/asadbek.sheetjs-demo)](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo)
 
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative
-- ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev)
-  
+- ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform
+![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=1)
+
+---
 - 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player
 - 📦 [Tabeller](https://git.sheetjs.com/asadbek064/react-native-tabeller) - Table component for React Native
 
