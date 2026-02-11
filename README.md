@@ -5,7 +5,8 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
 10+ years coding. Interested in accessibility, ML, and workflow optimization.
 
 ### Notable Projects
-- 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking. ![MyLinx Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/&query=$.count&label=MyLinx%20Users&color=blue)
+- 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking. [![MyLinx Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/&query=$.count&label=MyLinx%20Users&color=blue)](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=MyLinx%20Users
+)
 
 - 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) - View XLSX, CSV, ODS & more in VSCode.
 [![View on Open VSX](https://img.shields.io/badge/View%20on-Open%20VSX-blue?style=for-the-badge&logo=eclipseide)](https://open-vsx.org/extension/asadbek/sheetjs-demo)
