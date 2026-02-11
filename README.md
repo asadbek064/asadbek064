@@ -5,10 +5,11 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
 10+ years coding. Interested in accessibility, ML, and workflow optimization.
 
 ### Notable Projects
-- 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
+- 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking. ![MyLinx Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/&query=$.count&label=MyLinx%20Users&color=blue)
+
 - 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) - View XLSX, CSV, ODS & more in VSCode.
-    [![Open VSX](https://img.shields.io/open-vsx/dt/asadbek/sheetjs-demo?label=Open%20VSX%20Installs)](https://open-vsx.org/extension/asadbek/sheetjs-demo)
-    [![VS Marketplace Downloads](https://vsmarketplacebadges.dev/downloads/asadbek.sheetjs-demo.svg)](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo)
+[![View on Open VSX](https://img.shields.io/badge/View%20on-Open%20VSX-blue?style=for-the-badge&logo=eclipseide)](https://open-vsx.org/extension/asadbek/sheetjs-demo)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/asadbek/sheetjs-demo)](https://open-vsx.org/extension/asadbek/sheetjs-demo)
 
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform.
