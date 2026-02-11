@@ -17,7 +17,7 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
   
 
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform  
-  ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=1)
+  ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=12)
 
 
 ---
