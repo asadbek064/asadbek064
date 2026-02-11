@@ -7,6 +7,8 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
 ### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking.
 - 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) - View XLSX, CSV, ODS & more in VSCode.
+  [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/asadbek.sheetjs-demo)](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo)
+
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative.
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform.
 - 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player.
