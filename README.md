@@ -14,7 +14,7 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
 |---------|-------|-------|
 |🔗 [Mylinx](https://mylinx.cc)| ![Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=Users) | Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking |
 
-| 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) | [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/asadbek/sheetjs-demo)](https://open-vsx.org/extension/asadbek/sheetjs-demo)<br/>[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/asadbek.sheetjs-demo)](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) | View XLSX, CSV, ODS & more in VSCode |
+| 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) | [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/asadbek/sheetjs-demo)](https://open-vsx.org/extension/asadbek/sheetjs-demo) . [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/asadbek.sheetjs-demo)](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) | View XLSX, CSV, ODS & more in VSCode |
 
 
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative
