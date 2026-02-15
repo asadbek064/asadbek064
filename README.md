@@ -1,4 +1,4 @@
-Lead Software Engineer @[SheetJS](https://github.com/sheetjs)
+Lead Software Engineer [@SheetJS](https://github.com/sheetjs)
 
 I work across R&D, file-format correctness, integrations, and developer tooling. Core contributor to SheetJS ecosystem (parsers for XLSX, ODS, legacy formats) [SheetJS Repo](https://git.sheetjs.com/sheetjs).
 
