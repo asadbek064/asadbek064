@@ -1,6 +1,5 @@
-## 👋 Hey there! I'm Asad
+Lead Software Engineer @[SheetJS](https://github.com/sheetjs)
 
-Lead Software Engineer at [SheetJS](http://sheetjs.com/)
 I work across R&D, file-format correctness, integrations, and developer tooling. Core contributor to SheetJS ecosystem (parsers for XLSX, ODS, legacy formats) [SheetJS Repo](https://git.sheetjs.com/sheetjs).
 
 I build systems that make spreadsheet and structured data behave predictably in the browser from parsing and round-trip fidelity to high-performance rendering.
