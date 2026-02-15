@@ -30,7 +30,7 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
 ### Skills & Expertise
 
 **Languages:**  
-  * JavaScript, TypeScript (Node) (7+ years)
+  * JavaScript, TypeScript (Node/Bun) (7+ years)
   * Java (3 years)
   * Python (4+ years)
   * C++17 (2 years)
