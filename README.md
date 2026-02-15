@@ -12,7 +12,7 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
 
 | Project | Scale | Notes |
 |---------|-------|-------|
-|🔗 [Mylinx](https://mylinx.cc)| |![Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=Users | Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking|
+|🔗 [Mylinx](https://mylinx.cc)| ![Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=Users | Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking|
 )
 
 - 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) - View XLSX, CSV, ODS & more in VSCode
