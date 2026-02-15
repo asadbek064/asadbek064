@@ -1,8 +1,13 @@
 ## 👋 Hey there! I'm Asad
-Lead Software Engineer at [SheetJS](http://sheetjs.com/), working on R&D, documentation, integrations, and customer support. Most of my work there lives in our internal [Gitea repo](https://git.sheetjs.com/sheetjs), rather than GitHub. I also maintain [Mylinx](http://mylinx.cc/), a platform combining Linktree and Bitly features for bio pages, URL shortening, and QR codes.
 
-Passionate about data toolkits, binary formats, low-level JS, and clean architecture.
-10+ years coding. Interested in accessibility, ML, and workflow optimization.
+Lead Software Engineer at [SheetJS](http://sheetjs.com/)
+I work across R&D, file-format correctness, integrations, and developer tooling. Most production work lives in our internal [Gitea](https://git.sheetjs.com/sheetjs).
+
+I build systems that make spreadsheet and structured data behave predictably in the browser from parsing and round-trip fidelity to high-performance rendering.
+
+Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, and QR workflows.
+
+**Focus areas:** data processing, spreadsheet interoperability, low-level JavaScript, and performance-oriented web architecture.
 
 ### Notable Projects
 - 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking ![Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=Users
@@ -14,7 +19,6 @@ Passionate about data toolkits, binary formats, low-level JS, and clean architec
 
 - 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative
 
-  
 
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform  
   ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=12)
