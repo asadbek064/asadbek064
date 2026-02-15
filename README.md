@@ -35,7 +35,6 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
   * Python (4+ years)
   * C++17 (2 years)
 
-**Stack**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
