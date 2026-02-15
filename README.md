@@ -23,9 +23,6 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform  
   ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=12)
 
-- ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform  
-  ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=12)
-
 
 ---
 - 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player
