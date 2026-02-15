@@ -9,7 +9,10 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
 **Focus areas:** data processing, spreadsheet interoperability, low-level JavaScript, and performance-oriented web architecture.
 
 ### Notable Projects
-- 🔗 [Mylinx](https://mylinx.cc) - Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking ![Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=Users
+
+| Project | Scale | Notes |
+|---------|-------|-------|
+|🔗 [Mylinx](https://mylinx.cc)| |![Users](https://img.shields.io/badge/dynamic/json?url=https://count-users.asadbekasadbek.workers.dev/?format=json&query=$.count&label=Users | Create bio pages, blogs, short links, and QR codes with built-in analytics for tracking|
 )
 
 - 🧩 [VSCode Spreadsheet Viewer](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo) - View XLSX, CSV, ODS & more in VSCode
