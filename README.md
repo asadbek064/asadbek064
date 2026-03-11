@@ -17,12 +17,10 @@ Creator of [Mylinx](https://mylinx.cc), a platform for bio pages, short links, a
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/asadbek/sheetjs-demo)](https://open-vsx.org/extension/asadbek/sheetjs-demo)
 [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/asadbek.sheetjs-demo)](https://marketplace.visualstudio.com/items?itemName=asadbek.sheetjs-demo)
 
-- 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative
-
-
 - ⛩️ [AniTrek](https://www.anitrek.com/) - Content discovery and management platform  
   ![Cloudflare Stats](https://anitrek-traffic.asadbekasadbek.workers.dev?v=12)
-
+  
+- 🌐 [BinCode](https://bincode.asadk.dev/) - A Complete Fully Self-Hostable JSFiddle Alternative
 
 ---
 - 📦 [ReactAllPlayer](https://reactallplayer.asadk.dev/) - Versatile React media player
